@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/learn_react_ticTacToeTutorial/static/css/main.4d1827e7.chunk.css",
+    "main.css": "/learn_react_ticTacToeTutorial/static/css/main.c13c7809.chunk.css",
     "main.js": "/learn_react_ticTacToeTutorial/static/js/main.aa201f5a.chunk.js",
     "main.js.map": "/learn_react_ticTacToeTutorial/static/js/main.aa201f5a.chunk.js.map",
     "runtime~main.js": "/learn_react_ticTacToeTutorial/static/js/runtime~main.596db42e.js",
@@ -8,8 +8,8 @@
     "static/js/2.d4474299.chunk.js": "/learn_react_ticTacToeTutorial/static/js/2.d4474299.chunk.js",
     "static/js/2.d4474299.chunk.js.map": "/learn_react_ticTacToeTutorial/static/js/2.d4474299.chunk.js.map",
     "index.html": "/learn_react_ticTacToeTutorial/index.html",
-    "precache-manifest.11a736195436625639bb34efd1a1f100.js": "/learn_react_ticTacToeTutorial/precache-manifest.11a736195436625639bb34efd1a1f100.js",
+    "precache-manifest.2113716df8b3085e5fd3ba2b04d90774.js": "/learn_react_ticTacToeTutorial/precache-manifest.2113716df8b3085e5fd3ba2b04d90774.js",
     "service-worker.js": "/learn_react_ticTacToeTutorial/service-worker.js",
-    "static/css/main.4d1827e7.chunk.css.map": "/learn_react_ticTacToeTutorial/static/css/main.4d1827e7.chunk.css.map"
+    "static/css/main.c13c7809.chunk.css.map": "/learn_react_ticTacToeTutorial/static/css/main.c13c7809.chunk.css.map"
   }
 }
